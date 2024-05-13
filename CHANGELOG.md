@@ -1,5 +1,9 @@
 # Changelog
 
+# CURRENT
+
+- Add default log_format
+
 # [2.4.0](https://github.com/saltstack-formulas/nginx-formula/compare/v2.3.3...v2.4.0) (2020-03-31)
 
 
